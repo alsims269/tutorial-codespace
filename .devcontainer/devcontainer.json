@@ -22,9 +22,5 @@
                 "ms-dotnettools.csdevkit"
             ]
         }
-    },
-    "hostRequirements": {
-        "memory": "8gb",
-        "cpus": 4
-    }
+
 }
